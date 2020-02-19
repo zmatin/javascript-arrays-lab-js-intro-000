@@ -22,7 +22,7 @@ function appendKitten(Broom){
   return [...kittens, Broom]
   
 }
-function prependKitten(name) {
-  return [kittens,...name]
+function prependKitten(Arnold) {
+  return [kittens,...Arnold]
   }
   
