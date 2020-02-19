@@ -22,6 +22,7 @@ function appendKitten(Broom){
   return [...kittens, Broom]
   
 }
-function prependKitten(name) 
-  kittens.()
+function prependKitten(name) {
+  return [kittens,...name]
+  }
   
